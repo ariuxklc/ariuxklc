@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="left">
 
-<!--
-**ariuxklc/ariuxklc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hi
 
-Here are some ideas to get you started:
+<samp>
+  <a href="https://codeforces.com/profile/ariuxklc">[ codeforces ]</a>
+  ·
+  <a href="https://linkedin.com/in/ariunbayar-enkhtaivan">[ linkedin ]</a>
+  ·
+  <a href="https://instagram.com/ariuxklc">[ instagram ]</a>
+  ·
+  <a href="mailto:ariuxklc@gmail.com">[ email ]</a>
+</samp>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
